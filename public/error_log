@@ -1,0 +1,6 @@
+[16-Feb-2018 22:31:59 UTC] PHP Fatal error:  Cannot redeclare App\Estado::producto() in /home/sistema2847/public_html/musicenter.com.gt/app/Estado.php on line 16
+[16-Feb-2018 22:32:47 UTC] PHP Fatal error:  Cannot redeclare App\Estado::producto() in /home/sistema2847/public_html/musicenter.com.gt/app/Estado.php on line 16
+[16-Feb-2018 22:34:04 UTC] PHP Fatal error:  Cannot redeclare App\Estado::producto() in /home/sistema2847/public_html/musicenter.com.gt/app/Estado.php on line 16
+[16-Feb-2018 22:34:30 UTC] PHP Fatal error:  Cannot redeclare App\Estado::producto() in /home/sistema2847/public_html/musicenter.com.gt/app/Estado.php on line 16
+[19-Feb-2018 23:05:21 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/sistema2847/public_html/musicenter.com.gt/app/Categoria.php on line 3
+[20-Feb-2018 02:32:25 UTC] PHP Fatal error:  Cannot use Illuminate\Foundation\Auth\User as Authenticatable because the name is already in use in /home/sistema2847/public_html/musicenter.com.gt/app/User.php on line 7
